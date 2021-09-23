@@ -19,9 +19,9 @@ Bethesda, MD (20982), U.S.A.
 
 ## Research interests
 
-- Functional and genetical differences between photoreceptor subtypes
+- Photoreceptor development and identity
 - Mechanisms underlying wiring selectivity in the outer retina
-- Neural computations and visual processing
+- Neural computations, visual processing and color vision
 
 ## Education
 `2008 - 2014`
@@ -129,8 +129,14 @@ Reviewed student applications for the Physiology and Biophysics Ph.D. Program an
 [https://orcid.org/0000-0002-9217-3069](https://orcid.org/0000-0002-9217-3069)  
 <br>  
 `2021`
-__Angueyra JM__, Kunze VP, Kindt KS, Li W “A deep transcriptomic analysis of photoreceptors in zebrafish reveals _tbx2_ and _foxq2_ as key regulators of photoreceptor fate” (*In preparation*)
+__Angueyra JM__, Patak L, Kunze VP, Kim H, Kindt KS, Li W “Identification of transcription factors involved in the specification of photoreceptor subtypes” (*In preparation*)
 <br>  
+
+`2021`
+__Angueyra JM__, Kunze VP, Li W “Genetic profiling of a cone-dominated
+retina and cone photoreceptor subtypes” (*In preparation*)
+<br>  
+
 `2021`
 __Angueyra JM__, Baudin J, Schwartz GW, Rieke FM “Multiple time scales of adaptation allow cones to encode the inputs created by visual exploration of natural scenes” (*In revision, Journal of Neuroscience*) [bioRxiv 2021.02.13.431101](https://www.biorxiv.org/content/10.1101/2021.02.13.431101v1)
 <br>  
