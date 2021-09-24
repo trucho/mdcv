@@ -131,12 +131,10 @@ Reviewed student applications for the Physiology and Biophysics Ph.D. Program an
 `2021`
 __Angueyra JM__, Patak L, Kunze VP, Kim H, Kindt KS, Li W “Identification of transcription factors involved in the specification of photoreceptor subtypes” (*In preparation*)
 <br>  
-
 `2021`
 __Angueyra JM__, Kunze VP, Li W “Genetic profiling of a cone-dominated
 retina and cone photoreceptor subtypes” (*In preparation*)
 <br>  
-
 `2021`
 __Angueyra JM__, Baudin J, Schwartz GW, Rieke FM “Multiple time scales of adaptation allow cones to encode the inputs created by visual exploration of natural scenes” (*In revision, Journal of Neuroscience*) [bioRxiv 2021.02.13.431101](https://www.biorxiv.org/content/10.1101/2021.02.13.431101v1)
 <br>  
