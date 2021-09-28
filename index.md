@@ -11,11 +11,11 @@ title: Angueyra
 
 ## Summary of qualifications
 __Neuroscientist with over 14 years of experience in photoreceptor biology__:  
-M.D. in Medicine, *Universidad Nacional de Colombia, Bogotá, Colombia* (2006)  
-Ph.D. in Physiology and Biophysics, *University of Washington, Seattle, WA, U.S.A* (2014)  
-K99/R00 awardee K99 EY 030144-01 (2020)  
-Experience in teaching and mentoring at graduate and undergraduate levels  
-Commitment to champion just environments for all based on principles of Diversity, Equity and Inclusion  
+&emsp;&emsp;M.D. in Medicine, *Universidad Nacional de Colombia, Bogotá, Colombia* (2006)  
+&emsp;&emsp;Ph.D. in Physiology and Biophysics, *University of Washington, Seattle, WA, U.S.A* (2014)  
+&emsp;&emsp;K99/R00 awardee K99 EY 030144-01 (2020)  
+&emsp;&emsp;Experience in teaching and mentoring at graduate and undergraduate levels  
+&emsp;&emsp;Commitment to champion just environments for all based on principles of Diversity, Equity and Inclusion  
 
 ## Research experience
 `2014 - Present`
