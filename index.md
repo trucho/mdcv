@@ -124,6 +124,9 @@ __IBRO scholarship for Neurobiology summer course__
 - *Marine Biological Laboratory, Woods Hole, MA, U.S.A*
 
 ## Service
+`2010 - present`
+__Peer review__
+Active participant in peer review for journals.
 `2010`
 __Graduate Program Admissions Committee__
 - *Department of Physiology and Biophysics, University of Washington, Seattle, WA, U.S.A*  
