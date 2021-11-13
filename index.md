@@ -84,7 +84,7 @@ Clinical internship in a rural hospital with hands-on experience on patient care
 `2017`
 __Faculty - Citizen Science__
 - *Bard College, Annandale-on-Hudson, NY, U.S.A*  
-Developed curriculum for and taught an intensive 3-week course on science and promotion of science literacy, using mixed methods of active learning and student engagement, through a lens of diversity and inclusion
+Developed curriculum and taught an intensive 3-week course on science and promotion of science literacy, using mixed methods of active learning and student engagement, through a lens of diversity and inclusion.
 
 `2016`
 __Faculty - Foundations of cellular neuroscience__
@@ -94,7 +94,7 @@ Taught the “Ion channels” module of a graduate-level course for post-baccala
 `2015`
 __Faculty - Neurobiology summer course__
 - *Marine Biological Laboratory, Woods Hole, MA, U.S.A*  
-Partnered with Dr. Jon Sack to teach and train students on the theoretical principles of electrophysiology and the practical aspects of single-channel recordings, leading to the development of a short research project.
+Taught and trained students on the theoretical principles of electrophysiology and the practical aspects of single-channel recordings, leading to the development of a short research project.
 
 `2011`
 __Research and teaching assistant - Neurobiology summer course__
@@ -107,6 +107,10 @@ __Teaching assistant - Human physiology (PBIO 505/506)__
 Led weekly review sessions for approximately fifty graduate nursing and dentistry students, as well as revised and procotred midterms and finals.
 
 ## Awards
+`2021`
+__Next Generation Faculty Symposium --- Honorable Mention__
+- *Stanford, Berkeley, UCSF, U.S.A*
+
 `2020`
 __NEI Director's Award__
 - *National Eye Institute, Bethesda, MD, U.S.A*
@@ -129,10 +133,10 @@ Reviewed student applications for the Physiology and Biophysics Ph.D. Program an
 [https://orcid.org/0000-0002-9217-3069](https://orcid.org/0000-0002-9217-3069)  
 <br>  
 `2021`
-__Angueyra JM__, Patak L, Kunze VP, Kim H, Kindt KS, Li W “Identification of transcription factors involved in the specification of photoreceptor subtypes” (*In preparation*)
+__Angueyra J__, Kunze VP, Patak LK, Kim H, Kindt KS, Li W “Identification of transcription factors involved in the specification of photoreceptor subtypes” (*Submitted*)
 <br>  
 `2021`
-__Angueyra JM__, Kunze VP, Li W “Genetic profiling of a cone-dominated
+Kunze VP, __Angueyra J__, Li W “Genetic profiling of a cone-dominated
 retina and cone photoreceptor subtypes” (*In preparation*)
 <br>  
 `2021`
@@ -192,6 +196,9 @@ __Angueyra JM__, Kindt KS Invited review: “Leveraging zebrafish to study retin
 "Assymetries between ON and OFF responses in primate vision first arise in photoreceptors” *ARVO Annual Meeting*, Seattle, WA, U.S.A
 
 ## Abstracts and posters
+`Jul 2021`
+__Angueyra J__, Patak L, Kunze VP, Kindt KS, Li W “A reverse-genetic screen to identify genes involved in photoreceptor specification” *Retinal Circuits Symposium*, Virtual.
+<br>  
 `Sept 2019`
 __Angueyra J__, Kunze VP, Kindt KS, Li W “A screening platform in zebrafish to identify of genes involved in photoreceptor recognition and synapse formation” *European Retina Meeting*, Helsinki, Finland
 <br>  
