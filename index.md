@@ -126,7 +126,7 @@ __IBRO scholarship for Neurobiology summer course__
 ## Service
 `2010 - present`
 __Peer review__
-- *Scientific Journals*
+- *Scientific Journals*  
 Active participant in peer review.  
 
 `2010`
