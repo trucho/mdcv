@@ -19,8 +19,8 @@ Bethesda, MD (20982), U.S.A.
 
 ## Research interests
 
-- Photoreceptor development and identity
-- Mechanisms underlying wiring selectivity in the outer retina
+- Photoreceptor development and mechanisms of fate determination
+- Eyecup development and control of retinal patterning
 - Neural computations, visual processing and color vision
 
 ## Education
@@ -33,8 +33,8 @@ __M.D. in Medicine (General practitioner)__
 - *Universidad Nacional de Colombia, Bogotá, Colombia*
 
 ## Funding
-`2020 - 2025`
-__K99 EY 030144-01__
+`2020 - present`
+__1 K99 EY 030144-01__
 - *K99/R00 Pathway to Independence Award, NEI*
 
 `2013 - 2014`
@@ -143,14 +143,10 @@ Reviewed student applications for the Physiology and Biophysics Ph.D. Program an
 [https://orcid.org/0000-0002-9217-3069](https://orcid.org/0000-0002-9217-3069)  
 <br>  
 `2021`
-__Angueyra J__, Kunze VP, Patak LK, Kim H, Kindt KS, Li W “Identification of transcription factors involved in the specification of photoreceptor subtypes” (*Submitted*) [bioRxiv 2021.11.26.470161](https://doi.org/10.1101/2021.11.26.470161)
+__Angueyra J__, Kunze VP, Patak LK, Kim H, Kindt KS, Li W “Identification of transcription factors involved in the specification of photoreceptor subtypes” [bioRxiv 2021.11.26.470161](https://doi.org/10.1101/2021.11.26.470161)
 <br>  
 `2021`
-Kunze VP, __Angueyra J__, Li W “Genetic profiling of a cone-dominated
-retina and cone photoreceptor subtypes” (*In preparation*)
-<br>  
-`2021`
-__Angueyra JM__, Baudin J, Schwartz GW, Rieke FM “Multiple time scales of adaptation allow cones to encode the inputs created by visual exploration of natural scenes” (*In revision, Journal of Neuroscience*) [bioRxiv 2021.02.13.431101](https://www.biorxiv.org/content/10.1101/2021.02.13.431101v1)
+__Angueyra JM__, Baudin J, Schwartz GW, Rieke FM “Predicting and manipulating cone responses to naturalistic inputs” *J. Neurosci.* 2021  10.1523
 <br>  
 `2019`
 Baudin J, __Angueyra JM__, Sinha R, Rieke FM “S-cone photoreceptors in the primate retina are functionally distinct from L and M cones” *Elife* 2019 Jan 23;8:e39166
@@ -191,7 +187,7 @@ __Angueyra JM__, Kindt KS Invited review: “Leveraging zebrafish to study retin
 
 ## Invited talks
 `Dec 2021`
-“Identification of transcription factors involved in photoreceptor fate *Visitor Seminar*, Department of Biological Sciences, University of Maryland, Baltimore, MD, U.S.A.
+“Identification of transcription factors involved in photoreceptor fate" *Visitor Seminar*, Department of Biological Sciences, University of Maryland, Baltimore, MD, U.S.A.
 <br>
 `Jan 2021`
 “The transcription factor tbx2 is a key regulator of photoreceptor fate” *OPL virtual meeting*
