@@ -5,7 +5,7 @@ title: Angueyra
 # Juan Angueyra, M.D., Ph.D.
 
 <div id = webaddress>
-<a href="angueyra@nih.gov">angueyra@nih.gov</a> &emsp;|&emsp; +1 (301) 402 - 5459 &emsp;|&emsp; <a href="https://twitter.com/Juanonyme?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Juanonyme</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<a href="angueyra@nih.gov">angueyra@nih.gov</a> &emsp;|&emsp; +1 (301) 402 - 5459 &emsp;|&emsp; <a href="https://twitter.com/Juanonyme?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Juanonyme</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
 
@@ -44,30 +44,30 @@ __Computational neuroscience training grant__
 
 ## Research experience
 `2014 - Present`
-__Postdoctoral Fellow - Unit of Retinal Neurohysiology (Dr. Wei Li)__
+__Postdoctoral Fellow - Unit of Retinal Neurophysiology (Dr. Wei Li)__
 - *National Eye Institute, National Institutes of Health, Bethesda, MD, U.S.A*  
 Identification of transcription factors that determine photoreceptor identity
 
 `2009 - 2014`
-__Graduate Student - Deparment of Physiology and Biophysics (Dr. Fred Rieke)__
+__Graduate Student - Department of Physiology and Biophysics (Dr. Fred Rieke)__
 - *University of Washington, Seattle, WA, U.S.A*  
 Investigated how particular aspects of phototransduction are quantitatively set in primate cone photoreceptors, and how they affect the computations performed by downstream circuits, leading to limits in our ability to detect stimuli, colors and edges.
 
 `2008 (Jun - Sept)`
 __Research fellow - Laboratory of Dr. Enrico Nasi and Dr, Maria Gómez__
 - *Marine Biological Laboratory, Woods Hole, MA, U.S.A*  
-Electrophysiological characterization of amphioxus melanopsin-expressing photoreceptors including light response properties, phototransduction scheme and spectral sensitivity.
+Electrophysiological characterization of _amphioxus_ melanopsin-expressing photoreceptors including light response properties, phototransduction scheme and spectral sensitivity.
 
 `2007 (May - Aug)`
 __Research fellow - Laboratory of Dr. Enrico Nasi and Dr, Maria Gómez__
 - *Marine Biological Laboratory, Woods Hole, MA, U.S.A*  
-Development of genetic knock down in photoreceptors from scallop (Pecten irradians) through electroporation of short interference RNA
+Development of genetic knock down in photoreceptors from scallop (_Pecten irradians_) through electroporation of short interference RNA
 
 `2006 (Aug - Dec)`
 __Research fellow - Laboratory of Dr. Enrico Nasi and Dr, Maria Gómez__
 - *Marine Biological Laboratory, Woods Hole, MA, U.S.A*  
 Tested the possibility of physiological reversal of the dopamine transporter for transmitter release in rat midbrain neurons.
-Developed a novel technique to improve the sensitivity of amperometric detection through phase-locked detection
+Developed a novel technique to improve the sensitivity of amperommetric detection through phase-locked detection
 
 `2005 - 2006`
 __Medical intern - Laboratory of Dr. Alejandro Múnera__
@@ -138,7 +138,7 @@ Society for the Advancement of Chicanos/Hispanics and Native American in Science
 __Graduate Program Admissions Committee__
 - *Department of Physiology and Biophysics, University of Washington, Seattle, WA, U.S.A*  
 Reviewed student applications for the Physiology and Biophysics Ph.D. Program and helped with selection of potential candidates
-  
+
 ## Publications (peer-reviewed)
 [https://orcid.org/0000-0002-9217-3069](https://orcid.org/0000-0002-9217-3069)  
 <br>  
@@ -177,7 +177,7 @@ Ufret-Vincenty CA, Kelin RM, Hua L, __Angueyra J__, Gordon SE “Localization of
 <br>  
 `2010`
 Gomez MP, __Angueyra JM__, Nasi E (2009) “Light-Transduction in melanopsin-expressing photoreceptors of Amphioxus” *PNAS*, 106(22): 9081-9086
-  
+
 ## Reviews & books
 `2020`
 __Angueyra JM__, Li W Invited book chapter: "Subcortical color pathways in mammals" in *The Senses: A Comprehensive Reference*. Elsevier, 2nd Edition, 2020 (1):508-523
@@ -186,6 +186,9 @@ __Angueyra JM__, Li W Invited book chapter: "Subcortical color pathways in mamma
 __Angueyra JM__, Kindt KS Invited review: “Leveraging zebrafish to study retinal degenerations” *Frontiers Research Topic: Zebrafish in Development and Disease*. 2018, 6:110
 
 ## Invited talks
+`May 2022`
+"Identification of transcription factors involved in photoreceptor fate” *ARVO Annual Meeting*, Denver, CO, U.S.A
+<br>
 `Dec 2021`
 “Identification of transcription factors involved in photoreceptor fate" *Visitor Seminar*, Department of Biological Sciences, University of Maryland, Baltimore, MD, U.S.A.
 <br>
@@ -220,7 +223,7 @@ __Angueyra J__, Kunze VP, Kindt KS, Li W “Identification of genes involved in 
 `Jun 2018`
 __Angueyra J__, Kunze VP, Kindt KS, Li W “Identification of molecules involved in photoreceptor recognition and synapse formation” *FASEB Retinal Neurobiology and Visual Processing Meeting*, Olean, NY, U.S.A
 <br>  
-`Aug 2017` 
+`Aug 2017`
 __Angueyra J__, Kunze VP, Li W “Identification of molecules involved in recognition between photoreceptors subtypes and their specific postsynaptic partners” *Zebrafish Development and Genetics, MBL summer course*, Woods Hole, MA, U.S.A
 <br>  
 `Jul 2016`
