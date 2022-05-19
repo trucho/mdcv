@@ -187,13 +187,13 @@ __Angueyra JM__, Kindt KS Invited review: “Leveraging zebrafish to study retin
 
 ## Invited talks
 `May 2022`
-"Identification of transcription factors involved in photoreceptor fate” *ARVO Annual Meeting*, Denver, CO, U.S.A
+"Identification of transcription factors involved in photoreceptor fate” *ARVO Annual Meeting*, Denver, CO, U.S.A  
 <br>
 `Dec 2021`
-“Identification of transcription factors involved in photoreceptor fate" *Visitor Seminar*, Department of Biological Sciences, University of Maryland, Baltimore, MD, U.S.A.
+“Identification of transcription factors involved in photoreceptor fate" *Visitor Seminar*, Department of Biological Sciences, University of Maryland, Baltimore, MD, U.S.A.  
 <br>
 `Jan 2021`
-“The transcription factor tbx2 is a key regulator of photoreceptor fate” *OPL virtual meeting*
+“The transcription factor tbx2 is a key regulator of photoreceptor fate” *OPL virtual meeting*  
 <br>  
 `Feb 2020`
 “Genes involved in photoreceptor recognition and synapse formation” *Behavior, Ecology, Evolution and Systematics Seminar*, University of Maryland, MD, U.S.A
@@ -205,7 +205,7 @@ __Angueyra JM__, Kindt KS Invited review: “Leveraging zebrafish to study retin
 “Identification of genes involved in photoreceptor recognition and synapse formation” *Focus of Fellows*, National Eye Institute, MD, U.S.A
 <br>  
 `May 2013`
-"Assymetries between ON and OFF responses in primate vision first arise in photoreceptors” *ARVO Annual Meeting*, Seattle, WA, U.S.A
+"Asymmetries between ON and OFF responses in primate vision first arise in photoreceptors” *ARVO Annual Meeting*, Seattle, WA, U.S.A
 
 ## Abstracts and posters
 `Jul 2021`
