@@ -5,19 +5,16 @@ title: Angueyra
 # Juan Angueyra, M.D., Ph.D.
 
 <div id = webaddress>
-<a href="angueyra@nih.gov">angueyra@umd.edu</a>
-<!-- &emsp;|&emsp; +1 (301) 402 - 5459 &emsp;|&emsp; <a href="https://twitter.com/Juanonyme?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Juanonyme</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+<a href="angueyra@nih.gov">angueyra@nih.gov</a> &emsp;|&emsp; +1 (301) 402 - 5459 &emsp;|&emsp; <a href="https://twitter.com/Juanonyme?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Juanonyme</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
 
 ## Current position
 
-__Assistant Professor__  
-*Department of Biological Sciences*
-*University of Maryland, College Park*  
-Biology - Psychology Building, BPS2217  
-4094 Campus Drive
-College Park, MD (20742), U.S.A.
+__Research Fellow__, Unit of Retinal Neurohysiology  
+*National Eye Institute, National Institutes of Health*  
+35 Convent Drive, 35A 3F-242D  
+Bethesda, MD (20982), U.S.A.
 
 
 ## Research interests
@@ -46,7 +43,7 @@ __Computational neuroscience training grant__
 
 
 ## Research experience
-`2014 - 2022`
+`2014 - Present`
 __Postdoctoral Fellow - Unit of Retinal Neurophysiology (Dr. Wei Li)__
 - *National Eye Institute, National Institutes of Health, Bethesda, MD, U.S.A*  
 Identification of transcription factors that determine photoreceptor identity
@@ -110,10 +107,6 @@ __Teaching assistant - Human physiology (PBIO 505/506)__
 Led weekly review sessions for approximately fifty graduate nursing and dentistry students, as well as revised and procotred midterms and finals.
 
 ## Awards
-`2022`
-__NEI Director's Award__
-- *National Eye Institute, Bethesda, MD, U.S.A*
-
 `2021`
 __Next Generation Faculty Symposium --- Honorable Mention__
 - *Stanford, Berkeley, UCSF, U.S.A*
@@ -133,8 +126,8 @@ __IBRO scholarship for Neurobiology summer course__
 ## Service
 `2010 - present`
 __Peer review__
-- *Scientific Journals (eLife, IOVS, Frontiers, JoVE, Eye and Vision)*  
-Active participant in peer review. Received “_Exceptionally Good Review_” ranking for IOVS.
+- *Scientific Journals*  
+Active participant in peer review.  
 
 `2020 - present`
 __Member__
@@ -150,7 +143,7 @@ Reviewed student applications for the Physiology and Biophysics Ph.D. Program an
 [https://orcid.org/0000-0002-9217-3069](https://orcid.org/0000-0002-9217-3069)  
 <br>  
 `2021`
-__Angueyra J__, Kunze VP, Patak LK, Kim H, Kindt KS, Li W “Identification of transcription factors involved in the specification of photoreceptor subtypes” (_In review_) [bioRxiv 2021.11.26.470161v3](https://www.biorxiv.org/content/10.1101/2021.11.26.470161v3)
+__Angueyra J__, Kunze VP, Patak LK, Kim H, Kindt KS, Li W “Identification of transcription factors involved in the specification of photoreceptor subtypes” [bioRxiv 2021.11.26.470161](https://doi.org/10.1101/2021.11.26.470161)
 <br>  
 `2021`
 __Angueyra JM__, Baudin J, Schwartz GW, Rieke FM “Predicting and manipulating cone responses to naturalistic inputs” *J. Neurosci.* 2021  10.1523
@@ -193,15 +186,6 @@ __Angueyra JM__, Li W Invited book chapter: "Subcortical color pathways in mamma
 __Angueyra JM__, Kindt KS Invited review: “Leveraging zebrafish to study retinal degenerations” *Frontiers Research Topic: Zebrafish in Development and Disease*. 2018, 6:110
 
 ## Invited talks
-`Aug 2022`
-"Tbx2 is a key regulator of photoreceptor-subtype specification” *Visual System Development - Gordon Research Seminar*, Southbridge, MA, U.S.A  
-<br>
-`July 2022`
-"Eye on the Future” *Career Panel: NEI Video Contest High-School Winners*, National Eye Institute, Bethesda, MD, U.S.A  
-<br>
-`July 2022`
-"Fate determination and synaptic wiring in zebrafish photoreceptors” *Neurobiology 50th Anniversary Symposium*, Marine Biological Laboratory, Woods Hole, MA, U.S.A  
-<br>
 `May 2022`
 "Identification of transcription factors involved in photoreceptor fate” *ARVO Annual Meeting*, Denver, CO, U.S.A  
 <br>

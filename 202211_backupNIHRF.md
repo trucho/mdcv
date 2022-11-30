@@ -46,7 +46,7 @@ __Computational neuroscience training grant__
 
 
 ## Research experience
-`2014 - 2022`
+`2014 - Present`
 __Postdoctoral Fellow - Unit of Retinal Neurophysiology (Dr. Wei Li)__
 - *National Eye Institute, National Institutes of Health, Bethesda, MD, U.S.A*  
 Identification of transcription factors that determine photoreceptor identity
@@ -110,10 +110,6 @@ __Teaching assistant - Human physiology (PBIO 505/506)__
 Led weekly review sessions for approximately fifty graduate nursing and dentistry students, as well as revised and procotred midterms and finals.
 
 ## Awards
-`2022`
-__NEI Director's Award__
-- *National Eye Institute, Bethesda, MD, U.S.A*
-
 `2021`
 __Next Generation Faculty Symposium --- Honorable Mention__
 - *Stanford, Berkeley, UCSF, U.S.A*
@@ -133,8 +129,8 @@ __IBRO scholarship for Neurobiology summer course__
 ## Service
 `2010 - present`
 __Peer review__
-- *Scientific Journals (eLife, IOVS, Frontiers, JoVE, Eye and Vision)*  
-Active participant in peer review. Received “_Exceptionally Good Review_” ranking for IOVS.
+- *Scientific Journals*  
+Active participant in peer review.  
 
 `2020 - present`
 __Member__
@@ -150,7 +146,7 @@ Reviewed student applications for the Physiology and Biophysics Ph.D. Program an
 [https://orcid.org/0000-0002-9217-3069](https://orcid.org/0000-0002-9217-3069)  
 <br>  
 `2021`
-__Angueyra J__, Kunze VP, Patak LK, Kim H, Kindt KS, Li W “Identification of transcription factors involved in the specification of photoreceptor subtypes” (_In review_) [bioRxiv 2021.11.26.470161v3](https://www.biorxiv.org/content/10.1101/2021.11.26.470161v3)
+__Angueyra J__, Kunze VP, Patak LK, Kim H, Kindt KS, Li W “Identification of transcription factors involved in the specification of photoreceptor subtypes” [bioRxiv 2021.11.26.470161v3](https://www.biorxiv.org/content/10.1101/2021.11.26.470161v3)
 <br>  
 `2021`
 __Angueyra JM__, Baudin J, Schwartz GW, Rieke FM “Predicting and manipulating cone responses to naturalistic inputs” *J. Neurosci.* 2021  10.1523
