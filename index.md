@@ -5,17 +5,17 @@ title: Angueyra
 # Juan Angueyra, M.D., Ph.D.
 
 <div id = webaddress>
-<a href="angueyra@nih.gov">angueyra@umd.edu</a>
-<!-- &emsp;|&emsp; +1 (301) 402 - 5459 &emsp;|&emsp; <a href="https://twitter.com/Juanonyme?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Juanonyme</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+<a href="angueyra@umd.gov">angueyra@umd.edu</a>
+<!-- &emsp;|&emsp; +1 (301) 405 - 1605 &emsp;|&emsp; <a href="https://twitter.com/Juanonyme?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Juanonyme</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 </div>
 
 
 ## Current position
-
+`2023 - Present`
 __Assistant Professor__  
-*Department of Biological Sciences*
+*Department of Biological Sciences* & *Brain and Behavior Institute*  
 *University of Maryland, College Park*  
-Biology - Psychology Building, BPS2217  
+Biology - Psychology Building, BPS2213  
 4094 Campus Drive
 College Park, MD (20742), U.S.A.
 
@@ -36,7 +36,11 @@ __M.D. in Medicine (General practitioner)__
 - *Universidad Nacional de Colombia, Bogotá, Colombia*
 
 ## Funding
-`2020 - present`
+`2023 - 2026`
+__1 R00 EY 030144-01__
+- *K99/R00 Pathway to Independence Award, NEI*
+
+`2020 - 2022`
 __1 K99 EY 030144-01__
 - *K99/R00 Pathway to Independence Award, NEI*
 
@@ -149,8 +153,11 @@ Reviewed student applications for the Physiology and Biophysics Ph.D. Program an
 ## Publications (peer-reviewed)
 [https://orcid.org/0000-0002-9217-3069](https://orcid.org/0000-0002-9217-3069)  
 <br>  
-`2021`
-__Angueyra J__, Kunze VP, Patak LK, Kim H, Kindt KS, Li W “Identification of transcription factors involved in the specification of photoreceptor subtypes” (_In review_) [bioRxiv 2021.11.26.470161v3](https://www.biorxiv.org/content/10.1101/2021.11.26.470161v3)
+`2023`
+__Angueyra J__, Kunze VP, Patak LK, Kim H, Kindt KS, Li W “Transcription factors underlying photoreceptor diversity” *eLife* 2023 12:e81579
+<br>  
+`2023`
+Kunze VP, __Angueyra J__, Ball JM, Thomsen MB, Li X, Sabnis A, Nadal-Nicolas FM, Li W “Neurexin 3 is required for the specific S-cone to S-cone bipolar cell synapse in the mammalian retina” *bioRxiv* 2023.02.13.527055
 <br>  
 `2021`
 __Angueyra JM__, Baudin J, Schwartz GW, Rieke FM “Predicting and manipulating cone responses to naturalistic inputs” *J. Neurosci.* 2021  10.1523
