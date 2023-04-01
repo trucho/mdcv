@@ -163,7 +163,7 @@ Kunze VP, __Angueyra J__, Ball JM, Thomsen MB, Li X, Sabnis A, Nadal-Nicolas FM,
 __Angueyra JM__, Baudin J, Schwartz GW, Rieke FM “Predicting and manipulating cone responses to naturalistic inputs” *J. Neurosci.* 2021  10.1523
 <br>  
 `2019`
-Baudin J, __Angueyra JM__, Sinha R, Rieke FM “S-cone photoreceptors in the primate retina are functionally distinct from L and M cones” *Elife* 2019 Jan 23;8:e39166
+Baudin J, __Angueyra JM__, Sinha R, Rieke FM “S-cone photoreceptors in the primate retina are functionally distinct from L and M cones” *eLife* 2019 Jan 23;8:e39166
 <br>  
 `2019`
 Tilley DC, __Angueyra JM__, Eum KS, Kim H, Chao LH, Peng AW, Sack JT “The tarantula toxin *GxTx* detains K<sup>+</sup> channel gating charges in their resting conformation” *The Journal of General Physiology* 2019 Mar 4;151(3):292-315.
