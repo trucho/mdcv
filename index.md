@@ -13,7 +13,7 @@ title: Angueyra
 ## Current position
 `2023 - Present`
 __Assistant Professor__  
-*Department of Biological Sciences* & *Brain and Behavior Institute*  
+*Department of Biology* & *Brain and Behavior Institute*  
 *University of Maryland, College Park*  
 Biology - Psychology Building, BPS2213  
 4094 Campus Drive
