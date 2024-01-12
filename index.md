@@ -7,7 +7,7 @@ title: Angueyra
 <div id = webaddress>
 <a href="angueyra@umd.gov">angueyra@umd.edu</a>
 &emsp;|&emsp; +1 (301) 405 - 1605
-&emsp;|&emsp; <a href="angueyraLab.github.io">angueyraLab.github.io</a>
+&emsp;|&emsp; <a href="https://angueyraLab.github.io">https://angueyraLab.github.io</a>
 <!-- &emsp;|&emsp; <a href="https://bsky.app/profile/juanonyme.bsky.social" class="twitter-follow-button" data-show-count="false">Follow @Juanonyme</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 </div>
 
