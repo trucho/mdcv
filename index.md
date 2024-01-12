@@ -169,7 +169,7 @@ Reviewed student applications for the Physiology and Biophysics Ph.D. Program an
 __Angueyra J__, Kunze VP, Patak LK, Kim H, Kindt KS, Li W “Transcription factors underlying photoreceptor diversity” *eLife* 2023 12:e81579
 <br>  
 `2023`
-Chen Q, Ingram NT, Baudin J, _Angueyra JM_, Sinha R, Rieke F, "Light-adaptation clamp: a tool to predictably manipulate photoreceptor light responses" *bioRxiv*. 2023.10.20.563304
+Chen Q, Ingram NT, Baudin J, __Angueyra JM__, Sinha R, Rieke F, "Light-adaptation clamp: a tool to predictably manipulate photoreceptor light responses" *bioRxiv*. 2023.10.20.563304
 <br>  
 `2023`
 Kunze VP, __Angueyra J__, Ball JM, Thomsen MB, Li X, Sabnis A, Nadal-Nicolas FM, Li W “Neurexin 3 is required for the specific S-cone to S-cone bipolar cell synapse in the mammalian retina” *bioRxiv* 2023.02.13.527055
