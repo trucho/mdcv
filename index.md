@@ -6,7 +6,9 @@ title: Angueyra
 
 <div id = webaddress>
 <a href="angueyra@umd.gov">angueyra@umd.edu</a>
-<!-- &emsp;|&emsp; +1 (301) 405 - 1605 &emsp;|&emsp; <a href="https://twitter.com/Juanonyme?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Juanonyme</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+&emsp;|&emsp; +1 (301) 405 - 1605
+&emsp;|&emsp; <a href="angueyraLab.github.io">angueyraLab.github.io</a>
+<!-- &emsp;|&emsp; <a href="https://bsky.app/profile/juanonyme.bsky.social" class="twitter-follow-button" data-show-count="false">Follow @Juanonyme</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 </div>
 
 
@@ -113,7 +115,17 @@ __Teaching assistant - Human physiology (PBIO 505/506)__
 - *Department of Physiology and Biophysics, University of Washington, Seattle, WA, U.S.A*  
 Led weekly review sessions for approximately fifty graduate nursing and dentistry students, as well as revised and procotred midterms and finals.
 
+`2007-2008`
+__Faculty - Human anatomy and physiology__
+- *Department of Health Sciences, Universidad Manuela Beltrán, Bogotá, Colombia*  
+Taught the main human anatomy and physiology courses for second year physical-therapy and nursing students.
+
+
 ## Awards
+`2023`
+__NIH Director's Award__
+- *National Institutes of Health, Bethesda, MD, U.S.A*
+
 `2022`
 __NEI Director's Award__
 - *National Eye Institute, Bethesda, MD, U.S.A*
@@ -200,6 +212,12 @@ __Angueyra JM__, Li W Invited book chapter: "Subcortical color pathways in mamma
 __Angueyra JM__, Kindt KS Invited review: “Leveraging zebrafish to study retinal degenerations” *Frontiers Research Topic: Zebrafish in Development and Disease*. 2018, 6:110
 
 ## Invited talks
+`Jan 2023`
+"Transcription factors involved in the generation of retinal cell subtypes” *10th Strategic Conference of Zebrafish Investigators*, Asilomar, CA, U.S.A  
+<br>
+`May 2022`
+"Transcription factors involved in the generation of retinal cell subtypes” *MARZ - Mid-Atlantic Regional Zebrafish Meeting*, Bethesda, MA, U.S.A  
+<br>
 `Aug 2022`
 "Tbx2 is a key regulator of photoreceptor-subtype specification” *Visual System Development - Gordon Research Seminar*, Southbridge, MA, U.S.A  
 <br>
