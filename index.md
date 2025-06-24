@@ -172,12 +172,13 @@ Reviewed student applications for the Physiology and Biophysics Ph.D. Program an
 <br>  
 `2025`
 Baden T, __Angueyra JM__, Bosten JM, Collin SP, Conway BR, Cortesi F, et al. "A standardized nomenclature for the rods and cones of the vertebrate retina" PLoS Biol 23(5): e3003157
+<br>  
 `2024`
 Chen Q, Ingram NT, Baudin J, __Angueyra JM__, Sinha R, Rieke F, "Predictably manipulating photoreceptor light responses to reveal their role in downstream visual responses" *eLife*. 2024 13:RP93795
-<br> 
+<br>  
 `2023`
 __Angueyra J__, Kunze VP, Patak LK, Kim H, Kindt KS, Li W “Transcription factors underlying photoreceptor diversity” *eLife* 2023 12:e81579
-<br>   
+<br>  
 `2023`
 Kunze VP, __Angueyra J__, Ball JM, Thomsen MB, Li X, Sabnis A, Nadal-Nicolas FM, Li W “Neurexin 3 is required for the specific S-cone to S-cone bipolar cell synapse in the mammalian retina” *bioRxiv* 2023.02.13.527055
 <br>  
