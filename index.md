@@ -171,7 +171,7 @@ Reviewed student applications for the Physiology and Biophysics Ph.D. Program an
 [https://orcid.org/0000-0002-9217-3069](https://orcid.org/0000-0002-9217-3069)  
 <br>  
 `2025`
-Baden T, __Angueyra JM__, Bosten JM, Collin SP, Conway BR, Cortesi F, et al. "A standardized nomenclature for the rods and cones of the vertebrate retina" PLoS Biol 23(5): e3003157
+Baden T, __Angueyra JM__, Bosten JM, Collin SP, Conway BR, Cortesi F, et al. "A standardized nomenclature for the rods and cones of the vertebrate retina" *PLoS Biol* 23(5): e3003157
 <br>  
 `2024`
 Chen Q, Ingram NT, Baudin J, __Angueyra JM__, Sinha R, Rieke F, "Predictably manipulating photoreceptor light responses to reveal their role in downstream visual responses" *eLife*. 2024 13:RP93795
