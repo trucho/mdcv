@@ -8,7 +8,7 @@ title: Angueyra
 <a href="angueyra@umd.gov">angueyra@umd.edu</a>
 &emsp;|&emsp; +1 (301) 405 - 1605
 &emsp;|&emsp; <a href="https://angueyraLab.github.io">https://angueyraLab.github.io</a>
-&emsp;|&emsp; <a href="https://bsky.app/profile/juanonyme.bsky.social">bsluesky: @Juanonyme</a>
+&emsp;|&emsp; <a href="https://bsky.app/profile/juanonyme.bsky.social">juanonyme.bsky.social</a>
 </div>
 
 
