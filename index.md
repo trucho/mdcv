@@ -82,7 +82,8 @@ Clinical internship in a rural hospital with hands-on experience on patient care
 ## Teaching experience
 `2024 - Present`
 __University of Maryland__
-- *Biology of Vision (BSCI408/BIOL709)*
+- *Biology of Vision*
+BSCI408/BIOL709
 
 `2024 - Present`
 __Faculty - Neurobiology summer course__
