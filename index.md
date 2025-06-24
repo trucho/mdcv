@@ -8,7 +8,7 @@ title: Angueyra
 <a href="angueyra@umd.gov">angueyra@umd.edu</a>
 &emsp;|&emsp; +1 (301) 405 - 1605
 &emsp;|&emsp; <a href="https://angueyraLab.github.io">https://angueyraLab.github.io</a>
-<!-- &emsp;|&emsp; <a href="https://bsky.app/profile/juanonyme.bsky.social" class="twitter-follow-button" data-show-count="false">Follow @Juanonyme</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+&emsp;|&emsp; <a href="https://bsky.app/profile/juanonyme.bsky.social">bsluesky: @Juanonyme</a>
 </div>
 
 
@@ -62,21 +62,11 @@ __Graduate Student - Department of Physiology and Biophysics (Dr. Fred Rieke)__
 - *University of Washington, Seattle, WA, U.S.A*  
 Investigated how particular aspects of phototransduction are quantitatively set in primate cone photoreceptors, and how they affect the computations performed by downstream circuits, leading to limits in our ability to detect stimuli, colors and edges.
 
-`2008 (Jun - Sept)`
+`2006 - 2008 (Jun - Sept)`
 __Research fellow - Laboratory of Dr. Enrico Nasi and Dr, Maria Gómez__
 - *Marine Biological Laboratory, Woods Hole, MA, U.S.A*  
-Electrophysiological characterization of _amphioxus_ melanopsin-expressing photoreceptors including light response properties, phototransduction scheme and spectral sensitivity.
-
-`2007 (May - Aug)`
-__Research fellow - Laboratory of Dr. Enrico Nasi and Dr, Maria Gómez__
-- *Marine Biological Laboratory, Woods Hole, MA, U.S.A*  
+Electrophysiological characterization of _amphioxus_ melanopsin-expressing photoreceptors including light response properties, phototransduction scheme and spectral sensitivity.<br>
 Development of genetic knock down in photoreceptors from scallop (_Pecten irradians_) through electroporation of short interference RNA
-
-`2006 (Aug - Dec)`
-__Research fellow - Laboratory of Dr. Enrico Nasi and Dr, Maria Gómez__
-- *Marine Biological Laboratory, Woods Hole, MA, U.S.A*  
-Tested the possibility of physiological reversal of the dopamine transporter for transmitter release in rat midbrain neurons.
-Developed a novel technique to improve the sensitivity of amperommetric detection through phase-locked detection
 
 `2005 - 2006`
 __Medical intern - Laboratory of Dr. Alejandro Múnera__
@@ -90,6 +80,15 @@ __Medical intern - Hospital San Rafael__
 Clinical internship in a rural hospital with hands-on experience on patient care, and including rotations through the different hospital services (emergency room, general surgery and orthopedics, pediatrics, internal medicine, gynecology and obstetrics).
 
 ## Teaching experience
+`2024 - Present`
+__University of Maryland__
+BSCI408/BIOL709: Biology of Vision
+
+`2024 - Present`
+__Faculty - Neurobiology summer course__
+- *Marine Biological Laboratory, Woods Hole, MA, U.S.A*  
+Taught and trained students on principles of the communication between neurons and the emergence of circuit function, leading to the development of a short research project.
+
 `2017`
 __Faculty - Citizen Science__
 - *Bard College, Annandale-on-Hudson, NY, U.S.A*  
@@ -147,6 +146,11 @@ __IBRO scholarship for Neurobiology summer course__
 - *Marine Biological Laboratory, Woods Hole, MA, U.S.A*
 
 ## Service
+`2024 - present`
+__bioRXiv affiliate__
+- *bioRXiv*  
+Scientific community member providing feedback on the service, acting as advocate, and helping in screening submitted preprints.
+
 `2010 - present`
 __Peer review__
 - *Scientific Journals (eLife, IOVS, Frontiers, JoVE, Eye and Vision)*  
@@ -154,7 +158,7 @@ Active participant in peer review. Received “_Exceptionally Good Review_” ra
 
 `2020 - present`
 __Member__
-- *NIH SACNAS Chapter*
+- *NIH/UMD SACNAS Chapter*
 Society for the Advancement of Chicanos/Hispanics and Native American in Science
 
 `2010`
@@ -165,12 +169,14 @@ Reviewed student applications for the Physiology and Biophysics Ph.D. Program an
 ## Publications (peer-reviewed)
 [https://orcid.org/0000-0002-9217-3069](https://orcid.org/0000-0002-9217-3069)  
 <br>  
+`2025`
+Baden T, __Angueyra JM__, Bosten JM, Collin SP, Conway BR, Cortesi F, et al. "A standardized nomenclature for the rods and cones of the vertebrate retina" PLoS Biol 23(5): e3003157
+`2024`
+Chen Q, Ingram NT, Baudin J, __Angueyra JM__, Sinha R, Rieke F, "Predictably manipulating photoreceptor light responses to reveal their role in downstream visual responses" *eLife*. 2024 13:RP93795
+<br> 
 `2023`
 __Angueyra J__, Kunze VP, Patak LK, Kim H, Kindt KS, Li W “Transcription factors underlying photoreceptor diversity” *eLife* 2023 12:e81579
-<br>  
-`2023`
-Chen Q, Ingram NT, Baudin J, __Angueyra JM__, Sinha R, Rieke F, "Light-adaptation clamp: a tool to predictably manipulate photoreceptor light responses" *bioRxiv*. 2023.10.20.563304
-<br>  
+<br>   
 `2023`
 Kunze VP, __Angueyra J__, Ball JM, Thomsen MB, Li X, Sabnis A, Nadal-Nicolas FM, Li W “Neurexin 3 is required for the specific S-cone to S-cone bipolar cell synapse in the mammalian retina” *bioRxiv* 2023.02.13.527055
 <br>  
