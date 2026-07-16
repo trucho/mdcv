@@ -106,7 +106,9 @@ __IBRO scholarship for Neurobiology summer course__
 `2024 - Present`
 __Faculty - Biology, University of Maryland__
 - *Biology of Vision (BSCI403/BIOL709)*. 
-Mixed graduate and upper undergraduate course offered every Spring semester focused on understanding "_how do we know what we know_" by doing deep-dives on principles of vision and processing of visual signals across the animal kingdom.
+Mixed graduate and upper undergraduate course offered yearly focused on understanding "_how do we know what we know_" by doing deep-dives on principles of vision and processing of visual signals across the animal kingdom.
+- *Mammalian Physiology (BSCI450)*. 
+Undergraduate course offered every yearly focused on understanding the nervous, cardiovascular, renal, and respiratory systems in mammals, including the chemical and endocrine regulation and mechanisms of homeostasis.
 
 `2024 - Present`
 __Faculty - Neurobiology summer course__
