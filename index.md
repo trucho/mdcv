@@ -173,11 +173,17 @@ Reviewed student applications for the Physiology and Biophysics Ph.D. Program an
 ## Publications (peer-reviewed)
 [https://orcid.org/0000-0002-9217-3069](https://orcid.org/0000-0002-9217-3069)  
 <br>  
+`2026`
+Householder CM, Lee AS, Apgar S, Rinaldi AK, __Angueyra JM__ "Transcriptional regulation by Tbx2 paralogs creates diversity within photoreceptor subtypes" *biorxiv* 2026.07.20.739565 (_In review_)
+<br>  
+`2026`
+Bliss E, Bowers JM, Juntti SA, __Angueyra JM__, Carleton KL "Comparisons of retinal cone opsin specification in cichlid fishes and zebrafish using single-nuclei gene expression" (_In review_)
+<br>  
 `2025`
 Baden T, __Angueyra JM__, Bosten JM, Collin SP, Conway BR, Cortesi F, et al. "A standardized nomenclature for the rods and cones of the vertebrate retina" *PLoS Biol* 23(5): e3003157
 <br>  
 `2024`
-Chen Q, Ingram NT, Baudin J, __Angueyra JM__, Sinha R, Rieke F, "Predictably manipulating photoreceptor light responses to reveal their role in downstream visual responses" *eLife*. 2024 13:RP93795
+Chen Q, Ingram NT, Baudin J, __Angueyra JM__, Sinha R, Rieke F "Predictably manipulating photoreceptor light responses to reveal their role in downstream visual responses" *eLife*. 2024 13:RP93795
 <br>  
 `2023`
 __Angueyra J__, Kunze VP, Patak LK, Kim H, Kindt KS, Li W “Transcription factors underlying photoreceptor diversity” *eLife* 2023 12:e81579
